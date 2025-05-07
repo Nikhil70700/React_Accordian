@@ -1,9 +1,10 @@
 import './App.css'
+import Accordian from './components/Accordian'
 
 function App() {
    return (
     <>
-      <h1>Hello Accordian</h1>
+     <Accordian/>
     </>
   )
 }
